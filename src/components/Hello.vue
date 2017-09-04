@@ -63,9 +63,7 @@
 </template>
 
 <script>
-
-import Firebase from 'firebase'
-
+import Firebase from 'firebase';
 
 let config = {
   apiKey: "AIzaSyClpGYejDO6gy9K3eDroKGf7IbLOErF1jM",
